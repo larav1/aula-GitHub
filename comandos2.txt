@@ -1,0 +1,4 @@
+Tríade para seguir:
+git add .
+git commit -m "Terceiro commit"
+git push
